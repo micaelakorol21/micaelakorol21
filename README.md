@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👩‍💻 Sobre mí
+Estudiante de **Analista Programador en UNLP**, con formación en **Data Science** y actualmente cursando la certificación **Google Data Analytics**. 
 
-<!--
-**micaelakorol21/micaelakorol21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Mis habilidades
+- **Lenguajes de programación:** Python  
+- **Bases de datos:** SQL  
+- **Librerías y herramientas:** Pandas, Numpy, Matplotlib, Seaborn  
+- **Análisis de datos:** Análisis exploratorio de datos (EDA), limpieza y transformación de datos, visualización .
+- **Otros:** Hojas de cálculo (Google Sheets, Excel)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/micaelakorol/
+- Email: micaelakorol@gmail.com
