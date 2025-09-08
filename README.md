@@ -21,7 +21,7 @@ Estudiante de **Analista Programador en UNLP**, con formación en **Data Science
 - Visualización de información  
 
 ### Otros
-- Hojas de cálculo: Google Sheets, Excel  
+- Hojas de cálculo: Google Sheets
 
 ---
 
