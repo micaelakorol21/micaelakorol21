@@ -29,3 +29,4 @@ Estudiante de **Analista Programador en UNLP**, con formación en **Data Science
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micaelakorol/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:micaelakorol@gmail.com)  
+[![Portfolio](https://micaelakorol1.netlify.app/)
